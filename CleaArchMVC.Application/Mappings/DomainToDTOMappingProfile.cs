@@ -8,7 +8,7 @@ namespace CleaArchMVC.Application.Mappings
     {
         public DomainToDTOMappingProfile() 
         {
-            CreateMap<Category, CategoryDto>().ReverseMap();
+            CreateMap<Category, CategoryDTO>().ReverseMap();
             CreateMap<Product, ProductDTO>().ReverseMap();
 
         }

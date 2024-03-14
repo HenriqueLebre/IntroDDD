@@ -2,7 +2,7 @@
 
 namespace CleaArchMVC.Application.DTOs
 {
-    public class CategoryDto
+    public class CategoryDTO
     {
         public int Id { get; set; }
         [Required(ErrorMessage = "The Name is Required")]
