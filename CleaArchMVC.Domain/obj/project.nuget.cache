@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "I5WWkAXMbR8XZZQLL/1C4/g0xu/cDx9oL4iv4tJduzPYQBy5bLnezRnlw1msvRKPLGsmgeeOESLPEvT15kAz4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Henrique Lebre\\source\\repos\\CleanArchMVC\\CleaArchMVC.Domain\\CleaArchMVC.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Henrique Lebre\\.nuget\\packages\\microsoft.build.tasks.git\\8.0.0\\microsoft.build.tasks.git.8.0.0.nupkg.sha512",
+    "C:\\Users\\Henrique Lebre\\.nuget\\packages\\microsoft.sourcelink.common\\8.0.0\\microsoft.sourcelink.common.8.0.0.nupkg.sha512",
+    "C:\\Users\\Henrique Lebre\\.nuget\\packages\\microsoft.sourcelink.github\\8.0.0\\microsoft.sourcelink.github.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

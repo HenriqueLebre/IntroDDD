@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Henrique Lebre\\source\\repos\\CleanArchMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CABCF049-11BC-45EA-B9E8-157B83DDB1EC}|CleaArchMVC.Application\\CleaArchMVC.Application.csproj|c:\\users\\henrique lebre\\source\\repos\\cleanarchmvc\\cleaarchmvc.application\\mappings\\domaintodtomappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CABCF049-11BC-45EA-B9E8-157B83DDB1EC}|CleaArchMVC.Application\\CleaArchMVC.Application.csproj|solutionrelative:cleaarchmvc.application\\mappings\\domaintodtomappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CABCF049-11BC-45EA-B9E8-157B83DDB1EC}|CleaArchMVC.Application\\CleaArchMVC.Application.csproj|c:\\users\\henrique lebre\\source\\repos\\cleanarchmvc\\cleaarchmvc.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CABCF049-11BC-45EA-B9E8-157B83DDB1EC}|CleaArchMVC.Application\\CleaArchMVC.Application.csproj|solutionrelative:cleaarchmvc.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CABCF049-11BC-45EA-B9E8-157B83DDB1EC}|CleaArchMVC.Application\\CleaArchMVC.Application.csproj|c:\\users\\henrique lebre\\source\\repos\\cleanarchmvc\\cleaarchmvc.application\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CABCF049-11BC-45EA-B9E8-157B83DDB1EC}|CleaArchMVC.Application\\CleaArchMVC.Application.csproj|solutionrelative:cleaarchmvc.application\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA17F1FA-E70D-44DB-9318-CFDF2223695D}|CleaArchMVC.UI\\CleaArchMVC.UI.csproj|c:\\users\\henrique lebre\\source\\repos\\cleanarchmvc\\cleaarchmvc.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA17F1FA-E70D-44DB-9318-CFDF2223695D}|CleaArchMVC.UI\\CleaArchMVC.UI.csproj|solutionrelative:cleaarchmvc.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC3C18F-3B89-4A50-B71F-9269D2823F18}|CleaArchMVC.Infra.IoC\\CleaArchMVC.Infra.IoC.csproj|c:\\users\\henrique lebre\\source\\repos\\cleanarchmvc\\cleaarchmvc.infra.ioc\\seedproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC3C18F-3B89-4A50-B71F-9269D2823F18}|CleaArchMVC.Infra.IoC\\CleaArchMVC.Infra.IoC.csproj|solutionrelative:cleaarchmvc.infra.ioc\\seedproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC3C18F-3B89-4A50-B71F-9269D2823F18}|CleaArchMVC.Infra.IoC\\CleaArchMVC.Infra.IoC.csproj|c:\\users\\henrique lebre\\source\\repos\\cleanarchmvc\\cleaarchmvc.infra.ioc\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC3C18F-3B89-4A50-B71F-9269D2823F18}|CleaArchMVC.Infra.IoC\\CleaArchMVC.Infra.IoC.csproj|solutionrelative:cleaarchmvc.infra.ioc\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{023FAEDD-7E5F-435C-9CF3-DD37DC73F567}|CleaArchMVC.Infra.Data\\CleaArchMVC.Infra.Data.csproj|c:\\users\\henrique lebre\\source\\repos\\cleanarchmvc\\cleaarchmvc.infra.data\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{023FAEDD-7E5F-435C-9CF3-DD37DC73F567}|CleaArchMVC.Infra.Data\\CleaArchMVC.Infra.Data.csproj|solutionrelative:cleaarchmvc.infra.data\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{023FAEDD-7E5F-435C-9CF3-DD37DC73F567}|CleaArchMVC.Infra.Data\\CleaArchMVC.Infra.Data.csproj|c:\\users\\henrique lebre\\source\\repos\\cleanarchmvc\\cleaarchmvc.infra.data\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{023FAEDD-7E5F-435C-9CF3-DD37DC73F567}|CleaArchMVC.Infra.Data\\CleaArchMVC.Infra.Data.csproj|solutionrelative:cleaarchmvc.infra.data\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{023FAEDD-7E5F-435C-9CF3-DD37DC73F567}|CleaArchMVC.Infra.Data\\CleaArchMVC.Infra.Data.csproj|c:\\users\\henrique lebre\\source\\repos\\cleanarchmvc\\cleaarchmvc.infra.data\\entitiesconfiguration\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{023FAEDD-7E5F-435C-9CF3-DD37DC73F567}|CleaArchMVC.Infra.Data\\CleaArchMVC.Infra.Data.csproj|solutionrelative:cleaarchmvc.infra.data\\entitiesconfiguration\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{023FAEDD-7E5F-435C-9CF3-DD37DC73F567}|CleaArchMVC.Infra.Data\\CleaArchMVC.Infra.Data.csproj|c:\\users\\henrique lebre\\source\\repos\\cleanarchmvc\\cleaarchmvc.infra.data\\entitiesconfiguration\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{023FAEDD-7E5F-435C-9CF3-DD37DC73F567}|CleaArchMVC.Infra.Data\\CleaArchMVC.Infra.Data.csproj|solutionrelative:cleaarchmvc.infra.data\\entitiesconfiguration\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{023FAEDD-7E5F-435C-9CF3-DD37DC73F567}|CleaArchMVC.Infra.Data\\CleaArchMVC.Infra.Data.csproj|c:\\users\\henrique lebre\\source\\repos\\cleanarchmvc\\cleaarchmvc.infra.data\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{023FAEDD-7E5F-435C-9CF3-DD37DC73F567}|CleaArchMVC.Infra.Data\\CleaArchMVC.Infra.Data.csproj|solutionrelative:cleaarchmvc.infra.data\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{023FAEDD-7E5F-435C-9CF3-DD37DC73F567}|CleaArchMVC.Infra.Data\\CleaArchMVC.Infra.Data.csproj|c:\\users\\henrique lebre\\source\\repos\\cleanarchmvc\\cleaarchmvc.infra.data\\cleaarchmvc.infra.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{023FAEDD-7E5F-435C-9CF3-DD37DC73F567}|CleaArchMVC.Infra.Data\\CleaArchMVC.Infra.Data.csproj|solutionrelative:cleaarchmvc.infra.data\\cleaarchmvc.infra.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DomainToDTOMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Lebre\\source\\repos\\CleanArchMVC\\CleaArchMVC.Application\\Mappings\\DomainToDTOMappingProfile.cs",
+              "RelativeDocumentMoniker": "CleaArchMVC.Application\\Mappings\\DomainToDTOMappingProfile.cs",
+              "ToolTip": "C:\\Users\\Henrique Lebre\\source\\repos\\CleanArchMVC\\CleaArchMVC.Application\\Mappings\\DomainToDTOMappingProfile.cs",
+              "RelativeToolTip": "CleaArchMVC.Application\\Mappings\\DomainToDTOMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T02:37:27.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Lebre\\source\\repos\\CleanArchMVC\\CleaArchMVC.Application\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "CleaArchMVC.Application\\DTOs\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\Henrique Lebre\\source\\repos\\CleanArchMVC\\CleaArchMVC.Application\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "CleaArchMVC.Application\\DTOs\\ProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T02:32:56.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Lebre\\source\\repos\\CleanArchMVC\\CleaArchMVC.Application\\DTOs\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "CleaArchMVC.Application\\DTOs\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\Henrique Lebre\\source\\repos\\CleanArchMVC\\CleaArchMVC.Application\\DTOs\\CategoryDTO.cs",
+              "RelativeToolTip": "CleaArchMVC.Application\\DTOs\\CategoryDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T02:32:37.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SeedProducts.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Lebre\\source\\repos\\CleanArchMVC\\CleaArchMVC.Infra.IoC\\SeedProducts.cs",
+              "RelativeDocumentMoniker": "CleaArchMVC.Infra.IoC\\SeedProducts.cs",
+              "ToolTip": "C:\\Users\\Henrique Lebre\\source\\repos\\CleanArchMVC\\CleaArchMVC.Infra.IoC\\SeedProducts.cs",
+              "RelativeToolTip": "CleaArchMVC.Infra.IoC\\SeedProducts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T22:36:03.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Lebre\\source\\repos\\CleanArchMVC\\CleaArchMVC.UI\\Program.cs",
+              "RelativeDocumentMoniker": "CleaArchMVC.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\Henrique Lebre\\source\\repos\\CleanArchMVC\\CleaArchMVC.UI\\Program.cs",
+              "RelativeToolTip": "CleaArchMVC.UI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T02:01:48.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Lebre\\source\\repos\\CleanArchMVC\\CleaArchMVC.Infra.IoC\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "CleaArchMVC.Infra.IoC\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Henrique Lebre\\source\\repos\\CleanArchMVC\\CleaArchMVC.Infra.IoC\\DependencyInjection.cs",
+              "RelativeToolTip": "CleaArchMVC.Infra.IoC\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T01:54:07.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Lebre\\source\\repos\\CleanArchMVC\\CleaArchMVC.Infra.Data\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "CleaArchMVC.Infra.Data\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Henrique Lebre\\source\\repos\\CleanArchMVC\\CleaArchMVC.Infra.Data\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "CleaArchMVC.Infra.Data\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowBAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T21:55:31.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Lebre\\source\\repos\\CleanArchMVC\\CleaArchMVC.Infra.Data\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "CleaArchMVC.Infra.Data\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Henrique Lebre\\source\\repos\\CleanArchMVC\\CleaArchMVC.Infra.Data\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "CleaArchMVC.Infra.Data\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAowCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T21:23:22.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Lebre\\source\\repos\\CleanArchMVC\\CleaArchMVC.Infra.Data\\EntitiesConfiguration\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "CleaArchMVC.Infra.Data\\EntitiesConfiguration\\ProductConfiguration.cs",
+              "ToolTip": "C:\\Users\\Henrique Lebre\\source\\repos\\CleanArchMVC\\CleaArchMVC.Infra.Data\\EntitiesConfiguration\\ProductConfiguration.cs",
+              "RelativeToolTip": "CleaArchMVC.Infra.Data\\EntitiesConfiguration\\ProductConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T20:43:43.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Lebre\\source\\repos\\CleanArchMVC\\CleaArchMVC.Infra.Data\\EntitiesConfiguration\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "CleaArchMVC.Infra.Data\\EntitiesConfiguration\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\Henrique Lebre\\source\\repos\\CleanArchMVC\\CleaArchMVC.Infra.Data\\EntitiesConfiguration\\CategoryConfiguration.cs",
+              "RelativeToolTip": "CleaArchMVC.Infra.Data\\EntitiesConfiguration\\CategoryConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T20:40:21.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Lebre\\source\\repos\\CleanArchMVC\\CleaArchMVC.Infra.Data\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CleaArchMVC.Infra.Data\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Henrique Lebre\\source\\repos\\CleanArchMVC\\CleaArchMVC.Infra.Data\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CleaArchMVC.Infra.Data\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T22:22:03.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CleaArchMVC.Infra.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\Henrique Lebre\\source\\repos\\CleanArchMVC\\CleaArchMVC.Infra.Data\\CleaArchMVC.Infra.Data.csproj",
+              "RelativeDocumentMoniker": "CleaArchMVC.Infra.Data\\CleaArchMVC.Infra.Data.csproj",
+              "ToolTip": "C:\\Users\\Henrique Lebre\\source\\repos\\CleanArchMVC\\CleaArchMVC.Infra.Data\\CleaArchMVC.Infra.Data.csproj",
+              "RelativeToolTip": "CleaArchMVC.Infra.Data\\CleaArchMVC.Infra.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-07T22:20:23.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
